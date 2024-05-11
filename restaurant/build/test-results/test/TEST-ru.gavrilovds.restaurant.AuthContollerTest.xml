@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.gavrilovds.restaurant.AuthContollerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-05-11T07:13:28" hostname="MacBook-Pro-8.local" time="0.333">
+  <properties/>
+  <testcase name="test()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.319"/>
+  <testcase name="test2()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.004"/>
+  <testcase name="test3()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.001"/>
+  <testcase name="test4()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.001"/>
+  <testcase name="test5()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.002"/>
+  <testcase name="test6()" classname="ru.gavrilovds.restaurant.AuthContollerTest" time="0.002"/>
+  <system-out><![CDATA[10:13:24.219 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ru.gavrilovds.restaurant.AuthContollerTest]: AuthContollerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:13:24.273 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ru.gavrilovds.restaurant.RestaurantApplication for test class ru.gavrilovds.restaurant.AuthContollerTest
+10:13:24.337 [Test worker] INFO org.testcontainers.images.PullPolicy -- Image pull policy will be performed by: DefaultPullPolicy()
+10:13:24.339 [Test worker] INFO org.testcontainers.utility.ImageNameSubstitutor -- Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
+10:13:24.443 [Test worker] INFO org.testcontainers.dockerclient.DockerClientProviderStrategy -- Loaded org.testcontainers.dockerclient.UnixSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+10:13:24.574 [Test worker] INFO org.testcontainers.dockerclient.DockerClientProviderStrategy -- Found Docker environment with local Unix socket (unix:///var/run/docker.sock)
+10:13:24.575 [Test worker] INFO org.testcontainers.DockerClientFactory -- Docker host IP address is localhost
+10:13:24.615 [Test worker] INFO org.testcontainers.DockerClientFactory -- Connected to docker: 
+  Server Version: 24.0.6
+  API Version: 1.43
+  Operating System: Docker Desktop
+  Total Memory: 7844 MB
+10:13:24.637 [Test worker] INFO tc.testcontainers/ryuk:0.7.0 -- Creating container for image: testcontainers/ryuk:0.7.0
+10:13:24.733 [Test worker] INFO org.testcontainers.utility.RegistryAuthLocator -- Credential helper/store (docker-credential-desktop) does not have credentials for https://index.docker.io/v1/
+10:13:24.798 [Test worker] INFO tc.testcontainers/ryuk:0.7.0 -- Container testcontainers/ryuk:0.7.0 is starting: 442bda6eef6819559c1a2cee0c57b5acc95e7d3a31a060c874dab5dd9199b6ad
+10:13:25.059 [Test worker] INFO tc.testcontainers/ryuk:0.7.0 -- Container testcontainers/ryuk:0.7.0 started in PT0.421689S
+10:13:25.070 [Test worker] INFO org.testcontainers.utility.RyukResourceReaper -- Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+10:13:25.070 [Test worker] INFO org.testcontainers.DockerClientFactory -- Checking the system...
+10:13:25.071 [Test worker] INFO org.testcontainers.DockerClientFactory -- ✔︎ Docker server version should be at least 1.6.0
+10:13:25.071 [Test worker] INFO tc.postgres:15 -- Creating container for image: postgres:15
+10:13:25.100 [Test worker] INFO tc.postgres:15 -- Container postgres:15 is starting: d431b4d8b13dbe453dec2132b724b9f7d285e3e0d147623a0c9dbfcaad4771fa
+10:13:26.003 [Test worker] INFO tc.postgres:15 -- Container postgres:15 started in PT0.932499S
+10:13:26.004 [Test worker] INFO tc.postgres:15 -- Container is started (JDBC URL: jdbc:postgresql://localhost:64159/restaurant_db?loggerLevel=OFF)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-11T10:13:26.163+03:00  INFO 56865 --- [restaurant] [    Test worker] r.g.restaurant.AuthContollerTest         : Starting AuthContollerTest using Java 21 with PID 56865 (started by mac in /Users/mac/Code/JavaMirea/kursach4sem/restaurant)
+2024-05-11T10:13:26.164+03:00  INFO 56865 --- [restaurant] [    Test worker] r.g.restaurant.AuthContollerTest         : No active profile set, falling back to 1 default profile: "default"
+2024-05-11T10:13:26.475+03:00  INFO 56865 --- [restaurant] [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-11T10:13:26.519+03:00  INFO 56865 --- [restaurant] [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40 ms. Found 11 JPA repository interfaces.
+2024-05-11T10:13:26.748+03:00  INFO 56865 --- [restaurant] [    Test worker] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-11T10:13:26.775+03:00  INFO 56865 --- [restaurant] [    Test worker] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-11T10:13:26.789+03:00  INFO 56865 --- [restaurant] [    Test worker] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-05-11T10:13:26.893+03:00  INFO 56865 --- [restaurant] [    Test worker] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-11T10:13:26.905+03:00  INFO 56865 --- [restaurant] [    Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-05-11T10:13:27.020+03:00  INFO 56865 --- [restaurant] [    Test worker] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@771afdd5
+2024-05-11T10:13:27.020+03:00  INFO 56865 --- [restaurant] [    Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-05-11T10:13:27.614+03:00  INFO 56865 --- [restaurant] [    Test worker] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+Hibernate: create table "'order'" (id bigserial not null, created_at timestamp(6) with time zone, status varchar(255), total_amount bigint, total_items integer not null, total_price bigint, "customer_id" bigint, delivery_address_id bigint, restaurant_id bigint, primary key (id))
+Hibernate: create table "'user'" (id bigserial not null, email varchar(255), full_name varchar(255), password varchar(255), role varchar(255) check (role in ('ROLE_CUSTOMER','ROLE_RESTAURANT_OWNER','ROLE_ADMIN')), primary key (id))
+Hibernate: create table address (id bigserial not null, address varchar(255), "customer_id" bigint, primary key (id))
+Hibernate: create table cart (id bigserial not null, total bigint, user_id bigint, primary key (id))
+Hibernate: create table cart_item (id bigserial not null, ingredients varchar(255) array, quantity integer not null, total_price bigint, cart_id bigint, food_id bigint, primary key (id))
+Hibernate: create table category (id bigserial not null, name varchar(255), restaurant_id bigint, primary key (id))
+Hibernate: create table food (id bigserial not null, creation_date timestamp(6) with time zone, description varchar(255), is_available boolean not null, is_seasonal boolean not null, is_vegetarian boolean not null, name varchar(255), price bigint, category_id bigint, restaurant_id bigint, primary key (id))
+Hibernate: create table food_images (food_id bigint not null, images varchar(1000))
+Hibernate: create table food_ingredients (food_entity_id bigint not null, ingredients_id bigint not null)
+Hibernate: create table ingredient_category (id bigserial not null, name varchar(255), restaurant_id bigint, primary key (id))
+Hibernate: create table ingredients_item (id bigserial not null, is_in_stoke boolean not null, name varchar(255), category_id bigint, restaurant_id bigint, primary key (id))
+Hibernate: create table order_item (id bigserial not null, ingredients varchar(255) array, quantity integer not null, total_price bigint, food_id bigint, "order_id" bigint, primary key (id))
+Hibernate: create table restaurant (id bigserial not null, email varchar(255), phone varchar(255), vk varchar(255), cuisine_type varchar(255), description varchar(255), is_open boolean not null, name varchar(255), opening_hours varchar(255), registration_date timestamp(6) with time zone, address_id bigint, user_id bigint, primary key (id))
+Hibernate: create table restaurant_images (restaurant_id bigint not null, images varchar(1000))
+Hibernate: create table user_favorites (user_id bigint not null, name varchar(255), images varchar(1000) array, description varchar(255), id bigint)
+Hibernate: alter table if exists cart drop constraint if exists UK_9emlp6m95v5er2bcqkjsw48he
+2024-05-11T10:13:27.684+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+2024-05-11T10:13:27.684+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_9emlp6m95v5er2bcqkjsw48he" of relation "cart" does not exist, skipping
+Hibernate: alter table if exists cart add constraint UK_9emlp6m95v5er2bcqkjsw48he unique (user_id)
+Hibernate: alter table if exists restaurant drop constraint if exists UK_2b01rrbfd5g6hklh8ei57uhgn
+2024-05-11T10:13:27.686+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+2024-05-11T10:13:27.687+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_2b01rrbfd5g6hklh8ei57uhgn" of relation "restaurant" does not exist, skipping
+Hibernate: alter table if exists restaurant add constraint UK_2b01rrbfd5g6hklh8ei57uhgn unique (address_id)
+Hibernate: alter table if exists restaurant drop constraint if exists UK_ld6c40vlgs1192pu8kw91021w
+2024-05-11T10:13:27.689+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+2024-05-11T10:13:27.689+03:00  WARN 56865 --- [restaurant] [    Test worker] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_ld6c40vlgs1192pu8kw91021w" of relation "restaurant" does not exist, skipping
+Hibernate: alter table if exists restaurant add constraint UK_ld6c40vlgs1192pu8kw91021w unique (user_id)
+Hibernate: alter table if exists "'order'" add constraint FKk2sviymqiodaqcgtnsxlgkhe6 foreign key ("customer_id") references "'user'"
+Hibernate: alter table if exists "'order'" add constraint FK36k4wdo7qynpb6j91p2iokqqw foreign key (delivery_address_id) references address
+Hibernate: alter table if exists "'order'" add constraint FK1987hr6fecwd29xvo56t6nnb2 foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists address add constraint FKrgnkvdcxyod57qyifw6mijxfj foreign key ("customer_id") references "'user'"
+Hibernate: alter table if exists cart add constraint FK21buneglm09dxh0lpiyfg0nrl foreign key (user_id) references "'user'"
+Hibernate: alter table if exists cart_item add constraint FK1uobyhgl1wvgt1jpccia8xxs3 foreign key (cart_id) references cart
+Hibernate: alter table if exists cart_item add constraint FKcro8349ry4i72h81en8iw202g foreign key (food_id) references food
+Hibernate: alter table if exists category add constraint FKp6n44aqw5n74qc4f1d6eyqgha foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists food add constraint FKkomdx99dhk2cveaxugl2lws2u foreign key (category_id) references category
+Hibernate: alter table if exists food add constraint FKm9xrxt95wwp1r2s7andom1l1c foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists food_images add constraint FKjjjt9373et45vaj0mguo4pd2p foreign key (food_id) references food
+Hibernate: alter table if exists food_ingredients add constraint FKhy3t7b303ydmureccjf1qak2k foreign key (ingredients_id) references ingredients_item
+Hibernate: alter table if exists food_ingredients add constraint FK2mtbxodpiov6bhcacwyl4lpso foreign key (food_entity_id) references food
+Hibernate: alter table if exists ingredient_category add constraint FKdx2hvej3t5hkiguy698n9covv foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists ingredients_item add constraint FKjb94f4rm414htlxd1mwhf56in foreign key (category_id) references ingredient_category
+Hibernate: alter table if exists ingredients_item add constraint FKkokfv1la8uvwmow57uv6aeqnx foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists order_item add constraint FK4fcv9bk14o2k04wghr09jmy3b foreign key (food_id) references food
+Hibernate: alter table if exists order_item add constraint FKiqvbp6bet13vj87w4h26jt27d foreign key ("order_id") references "'order'"
+Hibernate: alter table if exists restaurant add constraint FK96q13p1ptpewvus590a8o83xt foreign key (address_id) references address
+Hibernate: alter table if exists restaurant add constraint FK6xw3bs43w3cwslskuerq0pl33 foreign key (user_id) references "'user'"
+Hibernate: alter table if exists restaurant_images add constraint FK810i11orew47qx1nrcwlh43jb foreign key (restaurant_id) references restaurant
+Hibernate: alter table if exists user_favorites add constraint FKtlakg1kj1scdcg2pjf20y596q foreign key (user_id) references "'user'"
+2024-05-11T10:13:27.714+03:00  INFO 56865 --- [restaurant] [    Test worker] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-11T10:13:27.880+03:00  INFO 56865 --- [restaurant] [    Test worker] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-11T10:13:28.272+03:00  WARN 56865 --- [restaurant] [    Test worker] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-11T10:13:28.445+03:00  INFO 56865 --- [restaurant] [    Test worker] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2cd2fdd8, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7018c94, org.springframework.security.web.context.SecurityContextHolderFilter@1f93cdc0, org.springframework.security.web.header.HeaderWriterFilter@3369a71f, org.springframework.web.filter.CorsFilter@26e42464, org.springframework.security.web.authentication.logout.LogoutFilter@1b694a00, ru.gavrilovds.restaurant.config.JwtTokenValidator@32578bc0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66b8f244, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1161786f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@9d09c6f, org.springframework.security.web.session.SessionManagementFilter@55eb9b2c, org.springframework.security.web.access.ExceptionTranslationFilter@5418225f, org.springframework.security.web.access.intercept.AuthorizationFilter@4a084cf0]
+2024-05-11T10:13:28.675+03:00  INFO 56865 --- [restaurant] [    Test worker] r.g.restaurant.AuthContollerTest         : Started AuthContollerTest in 2.654 seconds (process running for 4.877)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/mac/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.13/979ce25f7d3096a2e82214ba7dc972a05ce7a171/byte-buddy-agent-1.14.13.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

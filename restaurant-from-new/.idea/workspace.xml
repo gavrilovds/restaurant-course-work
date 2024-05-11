@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fc9d478-f439-4608-ad71-c1af15b659f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/kursach4sem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/restaurant-from-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant_food.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/RestaurantApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/config/JwtConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/config/JwtTokenValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/AdminCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/AdminFoodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/AdminOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/AdminRestaurantController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/FoodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/IngredientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/RestaurantController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/AddCartItemRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/CreateFoodRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/CreateOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/CreateRestaurantRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/IngredientCategoryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/IngredientItemRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/SignInRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/request/UpdateCartItemRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/response/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/response/GetProfileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/controller/response/MessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/dto/RestaurantDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/AddressEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/CartEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/CartItemEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/ContactInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/FoodEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/IngredientCategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/IngredientsItemEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/OrderItemEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/RestaurantEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/BaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/CartItemIsNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/CartNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/CategoryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/FoodNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/IngredientCategoryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/IngredientsItemNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/OrderNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/RestaurantDoesntExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/RestaurantNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/UserAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/provider/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/AddressRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/CartItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/FoodRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/IngredientCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/IngredientItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/OrderItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/RestaurantRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/CustomerUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/FoodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/IngredientsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/RestaurantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/java/ru/gavrilovds/restaurant/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/AbstractComponentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/AuthContollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/CartContollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/FoodContollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/OrderContollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/RestaurantApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaurant/src/test/java/ru/gavrilovds/restaurant/RestaurantControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2gGpQqYbgGVGrmJPcts6hPH0k7q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc9d478-f439-4608-ad71-c1af15b659f8" name="Changes" comment="" />
+      <created>1715333755561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715333755561</updated>
+      <workItem from="1715333757825" duration="18063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
